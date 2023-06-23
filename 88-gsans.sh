@@ -14,7 +14,6 @@ cat <<EOF
 etc/fonts.xml
 fonts/GoogleSans-Italic.ttf
 fonts/GoogleSans-Regular.ttf
-fonts/RobotoFallback-VF.ttf
 EOF
 }
 
